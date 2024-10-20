@@ -37,7 +37,7 @@ At **[ROMA]software**, I use a variety of programming languages and tools to bri
 
 ## Projects
 
-### Here are some of the most popular and widely viewed projects at **[ROMA]software**:
+Here are some of the most popular and widely viewed projects at **[ROMA]software**:
 
 ----
 
