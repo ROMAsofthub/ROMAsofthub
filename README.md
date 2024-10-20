@@ -37,7 +37,7 @@ A Bash project streamlines your Python application development by automating the
 
 ----
 
- - ### **[AsciiFicate](https://github.com/ROMAsofthub/AsciiFicate)**
+ - **[AsciiFicate](https://github.com/ROMAsofthub/AsciiFicate)**
 The AsciiFicate is a Python application that transforms digital images into captivating ASCII art. This tool merges technology and creativity, inviting users to explore imaginative possibilities through a nostalgic art form.
 
 ----
