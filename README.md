@@ -1,78 +1,79 @@
-# Bienvenido a [ROMA]software
+# Welcome to [ROMA]software
+![Diseño sin título(2)](https://github.com/user-attachments/assets/2b26e880-1696-4300-b814-69050bb75702)
 
-## 🚀 Acerca de [ROMA]software
-¡Hola! Soy el creador desarrollador detrás de **[ROMA]software**. Mi pasión por la tecnología y la programación me ha llevado a crear este proyecto personal, donde desarrollo aplicaciones y herramientas útiles para el público general, todo como un hobby. A través de pequeños programas y soluciones prácticas, busco contribuir al mundo del software de código abierto y ayudar a otros en su día a día con proyectos sencillos pero efectivos.
+## About [ROMA]software
+Hello! I am the creator and sole developer behind **[ROMA]software**. My passion for technology and programming has led me to create this personal project, where I develop small applications and tools for the general public as a hobby. Through small programs and practical solutions, I aim to contribute to the open-source software community and help others with simple yet effective projects.
 
-Aunque soy un equipo de una sola persona, cada línea de código está escrita con dedicación y cuidado, ¡siempre con la intención de ofrecer productos funcionales y de calidad.
-
----
-
-## Misión
-En **[ROMA]software**, mi objetivo es sencillo: crear soluciones de software pequeñas pero poderosas que sean accesibles, útiles y comprensibles. Me encanta la idea de que algo tan pequeño como un script pueda hacer una gran diferencia, y por eso me esfuerzo en desarrollar herramientas que simplifiquen tareas cotidianas, tanto para usuarios finales como para otros desarrolladores.
+Even though I am a one-person team, every line of code is written with dedication and care, always striving to deliver functional and high-quality products!
 
 ---
 
-## ¿Qué hacemos?
-Aunque mi enfoque principal es el desarrollo de programas pequeños y útiles para una amplia variedad de necesidades, los proyectos que creo son extremadamente variados. Aquí en **[ROMA]software** realizo:
-
-- **Herramientas CLI** (interfaces de línea de comandos) que ayudan a automatizar tareas repetitivas.
-- **Aplicaciones de escritorio ligeras** para usuarios que buscan una interfaz sencilla y funcional.
-- **Pequeñas aplicaciones web** que cubren necesidades específicas.
-- **Scripts para gestionar bases de datos** y consultas SQL para optimizar el acceso y manejo de información.
-- **Utilidades de automatización** usando Bash para optimizar procesos en sistemas basados en Linux.
-  
-Ya sea para optimizar tu flujo de trabajo o simplemente para crear algo entretenido, siempre estoy abierto a nuevas ideas y proyectos interesantes.
+## Mission
+At **[ROMA]software**, my goal is simple: to create small but powerful software solutions that are accessible, useful, and understandable. I love the idea that something as small as a script can make a big difference, which is why I focus on developing tools that simplify everyday tasks for both end users and other developers.
 
 ---
 
-## Lenguajes y Tecnologías
-Los proyectos de **[ROMA]software** son creados con una variedad de lenguajes de programación y herramientas. Aquí tienes algunos de los principales que utilizo:
+## What Do We Do?
+While my primary focus is on developing small and useful programs for various needs, the projects I create are quite diverse. Here at **[ROMA]software**, I develop:
 
-### **Python**
-Uno de mis lenguajes favoritos por su versatilidad y simplicidad. Uso Python para crear scripts de automatización, herramientas CLI, bots, y pequeñas aplicaciones web. Además, su gran cantidad de librerías y soporte lo hacen perfecto para prototipos rápidos y soluciones eficientes.
+- Command-line tools (CLI) that help automate repetitive tasks.
+- Lightweight desktop applications for users who need a simple and functional interface.
+- Small web applications that address specific needs.
+- Scripts to manage databases and run optimized SQL queries.
+- Automation utilities using Bash to streamline processes in Linux-based systems.
 
-### **SQL**
-El corazón de cualquier aplicación que necesita almacenar y consultar datos estructurados. Utilizo SQL para gestionar bases de datos, crear consultas optimizadas y hacer reportes que extraen información valiosa de los datos.
-
-### **Bash**
-La automatización es clave para aumentar la eficiencia, y Bash me permite escribir scripts potentes para manejar tareas repetitivas en sistemas basados en Linux. Ya sea para configuraciones del sistema o para flujos de trabajo automatizados, Bash es una herramienta indispensable.
-
-### **JavaScript**
-JavaScript es fundamental cuando se trata de crear aplicaciones web interactivas. Lo uso tanto para el frontend como en algunos casos en el backend (con Node.js) para desarrollar interfaces dinámicas y ágiles.
-
-### **C#**
-Utilizo C# para el desarrollo de aplicaciones de escritorio más avanzadas, especialmente aquellas que requieren una interfaz gráfica más rica y completa. Además, es una excelente opción para aplicaciones que necesitan un rendimiento robusto y están orientadas a Windows.
+Whether it's to optimize your workflow or create something fun, I’m always open to new ideas and interesting projects.
 
 ---
 
-## Filosofía de Desarrollo
-En **[ROMA]software**, sigo una serie de principios clave para cada proyecto que desarrollo:
+## Languages and Technologies
+The projects at **[ROMA]software** are created using a variety of programming languages and tools. Here are some of the main ones I work with:
 
-1. **Simplicidad**: La simplicidad es clave. Creo en escribir código que sea comprensible y fácil de mantener.
-2. **Funcionalidad**: Cada proyecto debe resolver un problema específico de la manera más eficiente posible.
-3. **Código Abierto**: Siempre que sea posible, los proyectos se publican con licencia abierta, para que otros puedan aprender, usar y contribuir.
-4. **Optimización**: Busco que mis programas sean ligeros y eficientes en cuanto a recursos, respetando la memoria y el procesamiento de los dispositivos donde se ejecuten.
+### Python
+One of my favorite languages due to its versatility and simplicity. I use Python to create automation scripts, CLI tools, bots, and small web applications. Its vast library ecosystem and support make it ideal for rapid prototyping and efficient solutions.
 
----
+### SQL
+The backbone of any application that needs to store and retrieve structured data. I use SQL to manage databases, write optimized queries, and generate reports that extract valuable insights from data.
 
-## Herramientas y Plataformas
-A lo largo de mi trabajo en **[ROMA]software**, utilizo una variedad de herramientas y plataformas para desarrollar, probar y distribuir mis proyectos:
+### Bash
+Automation is key to improving efficiency, and Bash allows me to write powerful scripts to handle repetitive tasks in Linux-based systems. Whether it's system configurations or automated workflows, Bash is an indispensable tool.
 
-- **GitHub**: Para el control de versiones y colaboración.
-- **VSCode**: Mi editor de código principal, optimizado con extensiones para cada uno de los lenguajes que utilizo.
-- **Heroku y Vercel**: Para el despliegue rápido de aplicaciones web y APIs.
-- **Linux & Windows**: Desarrollo tanto en entornos Linux como Windows, según el tipo de proyecto.
+### JavaScript
+JavaScript is essential when building interactive web applications. I use it for both frontend development and, in some cases, backend development (with Node.js) to create dynamic and responsive interfaces.
 
----
-
-## Contacto
-Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo de software, ¡estoy disponible! Puedes contactarme a través de los siguientes medios:
-
-- **Correo**: [romasoftware.contact@gmail.com](mailto:romasoftware.contact@gmail.com)
-- **GitHub**: [github.com/ROMAsofthub](https://github.com/ROMAsofthub)
-
-Siempre estoy buscando nuevas ideas y maneras de mejorar mis proyectos, ¡así que no dudes en ponerte en contacto.
+### C#
+I use C# to develop more advanced desktop applications, especially those requiring a richer and more complete graphical interface. It’s also a great option for performance-oriented Windows applications.
 
 ---
 
-Gracias por visitar **[ROMA]software**. ¡Espero que encuentres algo interesante aquí y que disfrutes explorando los proyectos que tengo para ofrecer.
+## Development Philosophy
+At **[ROMA]software**, I follow a set of key principles for every project I develop:
+
+1. **Simplicity**: Simplicity is essential. I believe in writing code that is understandable and easy to maintain.
+2. **Functionality**: Each project should solve a specific problem in the most efficient way possible.
+3. **Open Source**: Whenever possible, projects are published under an open license, so others can learn, use, and contribute.
+4. **Optimization**: I aim for my programs to be lightweight and resource-efficient, respecting the memory and processing power of the devices where they run.
+
+---
+
+## Tools and Platforms
+Throughout my work at **[ROMA]software**, I use a variety of tools and platforms to develop, test, and distribute my projects:
+
+- **GitHub**: For version control and collaboration.
+- **VSCode**: My main code editor, optimized with extensions for each language I use.
+- **Heroku and Vercel**: For quick deployment of web applications and APIs.
+- **Linux & Windows**: I develop on both Linux and Windows environments, depending on the type of project.
+
+---
+
+## Contact
+If you have any questions, suggestions, or simply want to chat about software development, feel free to reach out! You can contact me through the following channels:
+
+- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+
+I'm always looking for new ideas and ways to improve my projects, so don't hesitate to get in touch!
+
+---
+
+Thank you for visiting **[ROMA]software**. I hope you find something interesting here and enjoy exploring the projects I have to offer!
