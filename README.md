@@ -5,7 +5,7 @@
 ## About [ROMA]software
 Hello! I am the creator and sole developer behind **[ROMA]software**. My passion for technology and programming has led me to create this personal project, where I develop small applications and tools for the general public as a hobby. Through small programs and practical solutions, I aim to contribute to the open-source software community and help others with simple yet effective projects.
 
-Even though I am a one-person team, every line of code is written with dedication and care, always striving to deliver functional and high-quality products!
+Even though I am a one-person team, every line of code is written with dedication and care, always striving to deliver functional and high-quality products.
 
 ---
 
@@ -57,4 +57,4 @@ If you have any questions, suggestions, or simply want to chat about software de
 - **Email**: [romasoftware.contact@gmail.com](mailto:romasoftware.contact@gmail.com)
 - **GitHub**: [github.com/ROMAsofthub](https://github.com/ROMAsofthub)
 
-Thank you for visiting **[ROMA]software**. I hope you find something interesting here and enjoy exploring the projects I have to offer!
+Thank you for visiting **[ROMA]software**. I hope you find something interesting here and enjoy exploring the projects.
