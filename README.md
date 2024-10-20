@@ -14,18 +14,7 @@ At **[ROMA]software**, my goal is simple: to create small but powerful software 
 
 ---
 
-## What Do We Do?
-While my primary focus is on developing small and useful programs for various needs, the projects I create are quite diverse. Here at **[ROMA]software**, I develop:
-
-- Command-line tools (CLI) that help automate repetitive tasks.
-- Lightweight desktop applications for users who need a simple and functional interface.
-- Small web applications that address specific needs.
-- Scripts to manage databases and run optimized SQL queries.
-- Automation utilities using Bash to streamline processes in Linux-based systems.
-
----
-
-## Languages and Technologies
+## Languages
 
 At **[ROMA]software**, I use a variety of programming languages and tools to bring projects to life:
 
