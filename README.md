@@ -1,5 +1,7 @@
 # Welcome to [ROMA]software
 
+![Diseño sin título(2)](https://github.com/user-attachments/assets/62704106-17da-4d63-8fe7-4843166d6d9d)
+
 ## About [ROMA]software
 Hello! I am the creator and sole developer behind **[ROMA]software**. My passion for technology and programming has led me to create this personal project, where I develop small applications and tools for the general public as a hobby. Through small programs and practical solutions, I aim to contribute to the open-source software community and help others with simple yet effective projects.
 
