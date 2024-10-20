@@ -69,8 +69,8 @@ Throughout my work at **[ROMA]software**, I use a variety of tools and platforms
 ## Contact
 If you have any questions, suggestions, or simply want to chat about software development, feel free to reach out! You can contact me through the following channels:
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: [romasoftware.contact@gmail.com](mailto:romasoftware.contact@gmail.com)
+- **GitHub**: [github.com/ROMAsofthub](https://github.com/ROMAsofthub)
 
 I'm always looking for new ideas and ways to improve my projects, so don't hesitate to get in touch!
 
