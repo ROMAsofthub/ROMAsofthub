@@ -40,6 +40,10 @@ Here are some of the most popular and widely viewed projects at **[ROMA]software
 
 ---
 
+ - **[AsciiFicate](https://github.com/ROMAsofthub/AsciiFicate)**: The AsciiFicate is a Python application that transforms digital images into captivating ASCII art. This tool merges technology and creativity, inviting users to explore imaginative possibilities through a nostalgic art form.
+
+---
+
 ## Contact
 If you have any questions, suggestions, or simply want to chat about software development, feel free to reach out! You can contact me through the following channels:
 
