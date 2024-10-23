@@ -26,8 +26,6 @@ I use a variety of programming languages and tools to bring projects to life:
 
 ## Projects
 
-Here are some of the most popular and widely viewed projects at **[ROMA]software**:
-
 ----
 
 ### **[Python Project Generator (PPG)](https://github.com/ROMAsofthub/PythonProjectGenerator)** 
