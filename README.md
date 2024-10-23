@@ -16,7 +16,7 @@ My goal is simple: create small but powerful software solutions that are accessi
 
 ## Languages
 
-At **[ROMA]software**, I use a variety of programming languages and tools to bring projects to life:
+I use a variety of programming languages and tools to bring projects to life:
 
 - **Python**: Versatile and simple, I use Python for automation scripts, CLI tools, bots, and small web applications.
 - **SQL**: Essential for managing and querying databases efficiently.
