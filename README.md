@@ -10,7 +10,7 @@ Even though I am a one-person team, every line of code is written with dedicatio
 ---
 
 ## Mission
-At **[ROMA]software**, my goal is simple: to create small but powerful software solutions that are accessible, useful, and understandable. I love the idea that something as small as a script can make a big difference, which is why I focus on developing tools that simplify everyday tasks for both end users and other developers.
+My goal is simple: create small but powerful software solutions that are accessible, useful, and understandable. I love the idea that something as small as a script can make a big difference, which is why I focus on developing tools that simplify everyday tasks for both end users and other developers.
 
 ---
 
