@@ -26,7 +26,7 @@ I use a variety of programming languages and tools to bring projects to life:
 
 ## Projects
 
-----
+-----
 
 ### **[Python Project Generator (PPG)](https://github.com/ROMAsofthub/PythonProjectGenerator)** 
 ##### A Bash project streamlines your Python application development by automating the setup of a virtual environment and essential project configuration, allowing you to quickly launch your projects.
