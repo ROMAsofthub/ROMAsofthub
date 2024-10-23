@@ -1,4 +1,4 @@
-# [ROMA] ## software
+# [ROMA]
 
 ![Diseño sin título(2)](https://github.com/user-attachments/assets/62704106-17da-4d63-8fe7-4843166d6d9d)
 
