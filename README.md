@@ -30,7 +30,7 @@ I use a variety of programming languages and tools to bring projects to life:
 ##### A Bash project streamlines your Python application development by automating the setup of a virtual environment and essential project configuration, allowing you to quickly launch your projects.
 
 #### **[AsciiFicate](https://github.com/ROMAsofthub/AsciiFicate)**
-###### The AsciiFicate is a Python application that transforms digital images into captivating ASCII art. This tool merges technology and creativity, inviting users to explore imaginative possibilities through a nostalgic art form.
+###### AsciiFicate is a Python application that transforms digital images into ASCII art. This tool merges technology and creativity, inviting users to explore imaginative possibilities through a nostalgic art form.
 
 #### **[Writing Speed Test](https://github.com/ROMAsofthub/WritingSpeedTest)**
 ###### Writing Speed Test is a simple program designed to measure your typing speed and accuracy. The test consists of 100 different phrases. Your results are calculated instantly and displayed at the end of the test.
@@ -41,6 +41,5 @@ I use a variety of programming languages and tools to bring projects to life:
 If you have any questions, suggestions, or simply want to chat about software development, feel free to reach out! You can contact me through the following channels:
 
 - **Email**: [romasoftware.contact@gmail.com](mailto:romasoftware.contact@gmail.com)
-- **GitHub**: [github.com/ROMAsofthub](https://github.com/ROMAsofthub)
 
-Thank you for visiting **[ROMA]software**. I hope you find something interesting here and enjoy exploring the projects.
+Thank you for visiting. I hope you find something interesting here and enjoy exploring my projects.
