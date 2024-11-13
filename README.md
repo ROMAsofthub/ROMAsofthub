@@ -1,6 +1,6 @@
 ![Diseño sin título(2)](https://github.com/user-attachments/assets/62704106-17da-4d63-8fe7-4843166d6d9d)
 
-## About [ROMA]software
+## About 
 Hello! I am the creator and developer behind **[ROMA]software**. My passion for technology and programming has led me to create this personal project, where I develop small applications and tools for the general public as a hobby. Through small programs and practical solutions, I aim to contribute to the open-source software community and help others with simple yet effective projects.
 
 Even though I am a one-person team, every line of code is written with dedication and care, always striving to deliver functional and high-quality products.
@@ -29,8 +29,10 @@ I use a variety of programming languages and tools to bring projects to life:
 ### **[Python Project Generator (PPG)](https://github.com/ROMAsofthub/PythonProjectGenerator)** 
 ##### A Bash project streamlines your Python application development by automating the setup of a virtual environment and essential project configuration, allowing you to quickly launch your projects.
 
+
 #### **[AsciiFicate](https://github.com/ROMAsofthub/AsciiFicate)**
 ###### AsciiFicate is a Python application that transforms digital images into ASCII art. This tool merges technology and creativity, inviting users to explore imaginative possibilities through a nostalgic art form.
+
 
 #### **[Writing Speed Test](https://github.com/ROMAsofthub/WritingSpeedTest)**
 ###### Writing Speed Test is a simple program designed to measure your typing speed and accuracy. The test consists of 100 different phrases. Your results are calculated instantly and displayed at the end of the test.
