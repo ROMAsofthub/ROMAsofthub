@@ -45,15 +45,3 @@ If you have any questions, suggestions, or simply want to chat about software de
 - **Email**: [romasoftware.contact@gmail.com](mailto:romasoftware.contact@gmail.com)
 
 Thank you for visiting. I hope you find something interesting here and enjoy exploring my projects.
-
-
-| Compañía    | Plan                      | Precio mensual | Velocidad de fibra | Líneas móviles | Datos móviles por línea | Permanencia | Puntos fuertes                                              | Puntos débiles                                           |
-|-------------|---------------------------|----------------|--------------------|----------------|--------------------------|-------------|-------------------------------------------------------------|---------------------------------------------------------|
-| **Movistar**| Fusión Base                | 64,90 €        | 600 Mbps           | 2              | 35 GB compartidos        | Sin permanencia | Alta calidad de servicio y cobertura; incluye Movistar Plus+ con contenido exclusivo. | Precio más elevado; solo 2 líneas móviles incluidas.     |
-| **Orange**  | Love Original              | 59 €           | 600 Mbps           | 1              | Datos ilimitados         | 12 meses    | Buena cobertura y servicio; datos móviles ilimitados.       | Permanencia de 12 meses; solo 1 línea móvil incluida.    |
-| **Vodafone**| One Ilimitada Maxi         | 50 €           | 300 Mbps           | 1              | 50 GB                    | 12 meses    | Buen servicio y cobertura; incluye Vodafone TV con canales básicos. | Permanencia de 12 meses; solo 1 línea móvil incluida.    |
-| **Yoigo**   | Fibra 500 Mb + 2 líneas móviles | 48 €      | 500 Mbps           | 2              | 25 GB por línea          | 12 meses    | Precios competitivos; incluye Agile TV opcional por 5 € adicionales. | Permanencia de 12 meses; solo 2 líneas móviles incluidas.|
-| **Jazztel** | Fibra 600 Mb + 2 líneas móviles | 48,90 €   | 600 Mbps           | 2              | 25 GB por línea          | 12 meses    | Precios competitivos; incluye Jazztel TV.                   | Permanencia de 12 meses; solo 2 líneas móviles incluidas.|
-| **Lowi**    | Fibra 600 Mb + 1 línea móvil | 36,95 €     | 600 Mbps           | 1              | 50 GB                    | Sin permanencia | Precios económicos; sin permanencia.                        | Solo 1 línea móvil incluida; cobertura limitada en algunas áreas. |
-| **Finetwork**| Fibra 600 Mb + 1 línea móvil | 32,80 €    | 600 Mbps           | 1              | 55 GB                    | 12 meses    | Precios muy competitivos.                                   | Permanencia de 12 meses; solo 1 línea móvil incluida.    |
-| **Pepephone**| Fibra 500 Mb + 1 línea móvil | 42,90 €    | 500 Mbps           | 1              | 49 GB                    | Sin permanencia | Sin permanencia; buena atención al cliente.                 | Solo 1 línea móvil incluida.                             |
